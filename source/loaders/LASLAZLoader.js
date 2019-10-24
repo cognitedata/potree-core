@@ -1,5 +1,7 @@
 "use strict";
 
+import * as THREE from 'three';
+
 import {VersionUtils} from "../utils/VersionUtils.js";
 import {WorkerManager} from "../utils/WorkerManager.js";
 import {LASLoader, LAZLoader, LASFile, LASDecoder} from "./LASLoader.js";
