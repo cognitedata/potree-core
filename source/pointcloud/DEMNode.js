@@ -4,7 +4,6 @@ import * as THREE from 'three';
 
 //
 //index is in order xyzxyzxyz
-//
 class DEMNode
 {
 	constructor(name, box, tileSize)
